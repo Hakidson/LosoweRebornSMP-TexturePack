@@ -1,2 +1,3 @@
 # LosoweRebornSMP-TexturePack
-texture pack dla serwera LosoweRebornSMP
+Texture pack dla serwera LosoweRebornSMP
+Pobierz folder .zip "LRSMPTexturePack"
